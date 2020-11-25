@@ -1,0 +1,84 @@
+@keyframes changecolor{
+	0%{background-color: #00FFE0;}
+	10%{background-color: #ff4000;}
+	20%{background-color: #ff8000;}
+	30%{background-color: #ffbf00;}
+	40%{background-color: #ffff00;}
+	50%{background-color: #bfff00;}
+	60%{background-color: #80ff00;}
+	70%{background-color: #40ff00;}
+	80%{background-color: #00ff00;}
+	90%{background-color: #00ff40;}
+	100%{background-color: #00ff80;}
+}
+	
+
+	/*body
+	{
+		animation: bgcolor infinite 20s;
+		font-size: 20px;
+	}*/
+
+
+
+
+
+
+
+	     h1{	
+	     			  
+	     	 	
+				background-color: red;	
+				color: black;
+				font-family: chiller;
+				border:5px solid black;
+				border-radius: 50px;				
+				transition-property: width;
+				transition-duration: 500ms;
+				transition-timing-function: ease-in-out;								
+				animation-name: changecolor;
+				animation-duration: 10s;
+				animation-delay: ;
+				animation-iteration-count: infinite;
+			}
+				
+
+			
+
+			h1: hover{
+				width: 1250px;
+				}
+
+		u
+			{
+				color: black;
+			}
+
+		hr
+			{
+				background-color: black;
+				
+			}
+
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+			
+		
+		
+
+
+	
